@@ -1,4 +1,4 @@
-### This is the basic image classifier code using transfer learning ###
+### This is the basic image classifier code using transfer learning in VGG19###
 from tensorflow.keras.applications.vgg19 import VGG19, decode_predictions
 from tensorflow.keras.applications.imagenet_utils import preprocess_input
 from tensorflow.keras.preprocessing import image
